@@ -10,9 +10,8 @@ Bu atölye çalışması; eğitim araştırmacıları, akademisyenler ve lisans�
 
 ## Çalışma Dosyaları
 
+- IUC_HAYEF_AI4EDU_2026_Egitimde_YapayZeka_LLM_Atolyesi
 
-- NLP_Preprocessing_1
+[IUC_HAYEF_AI4EDU_2026_Egitimde_YapayZeka_LLM_Atolyesi.ipynb](https://colab.research.google.com/github/yavuzKomecoglu/IUC_HAYEF_AI4EDU_2026/blob/main/IUC_HAYEF_AI4EDU_2026_Egitimde_YapayZeka_LLM_Atolyesi.ipynb)
 
-[IUC_HAYEF_AI4EDU_2026_Egitimde_YapayZeka_LLM_Atolyesi.ipynb](https://colab.research.google.com/github/yavuzKomecoglu/IUC_HAYEF_AI4EDU_2026/blob/main/notebooks/IUC_HAYEF_AI4EDU_2026_Egitimde_YapayZeka_LLM_Atolyesi.ipynb)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yavuzKomecoglu/IUC_HAYEF_AI4EDU_2026/blob/main/notebooks/IUC_HAYEF_AI4EDU_2026_Egitimde_YapayZeka_LLM_Atolyesi.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yavuzKomecoglu/IUC_HAYEF_AI4EDU_2026/blob/main/IUC_HAYEF_AI4EDU_2026_Egitimde_YapayZeka_LLM_Atolyesi.ipynb)
